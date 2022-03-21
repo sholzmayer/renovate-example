@@ -1,0 +1,34 @@
+{
+  $schema: "https://docs.renovatebot.com/renovate-schema.json",
+  extends: [
+    "config:base",
+    ":semanticCommitTypeAll(chore)",
+    ":semanticCommitScopeDisabled",
+  ],
+  enabledManagers: ["yarn"],
+  semanticCommits: "enabled",
+  timezone: "Europe/Berlin",
+  separateMajorMinor: false,
+  ignorePaths: ["**/node_modules/**"],
+  automergeType: "branch",
+  prHourlyLimit: 5,
+  prConcurrentLimit: 10,
+  branchPrefix: "chore/renovate-",
+  packageRules: [
+    {
+      packageNames: ["@jest-performance-reporter/core"],
+      rangeStrategy: "pin",
+      groupName: "Web client interface for the Electron Container API",
+      automerge: false,
+    },
+    {
+      packageNames: ["react", "react-dom", "@types/react", "@types/react-dom"],
+      groupName: "React Dependencies",
+      automerge: false,
+    },
+  ],
+  lockFileMaintenance: {
+    enabled: false,
+    automerge: true,
+  },
+}
