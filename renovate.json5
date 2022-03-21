@@ -10,6 +10,7 @@
   timezone: "Europe/Berlin",
   separateMajorMinor: false,
   ignorePaths: ["**/node_modules/**"],
+  automerge: true,
   automergeType: "branch",
   prHourlyLimit: 5,
   prConcurrentLimit: 10,
