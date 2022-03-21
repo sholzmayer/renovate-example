@@ -6,12 +6,12 @@
   "author": "Simon Holzmayer <simon@holzmayer.me>",
   "license": "MIT",
   "scripts": {
-    "test": "echo fake tests passed."
+    "test": "sleep 60 && echo fake tests passed."
   },
   "dependencies": {
     "lodash": "4.17.21",
     "react": "17.0.1",
-    "datejs": "1.0.0-rc3"
+    "datejs": "1.0.0-rc1"
   },
   "devDependencies": {
     "@jest-performance-reporter/core": "1.0.7",
