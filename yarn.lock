@@ -952,10 +952,10 @@ data-urls@^2.0.0:
     whatwg-mimetype "^2.3.0"
     whatwg-url "^8.0.0"
 
-datejs@1.0.0-rc1:
-  version "1.0.0-rc1"
-  resolved "https://registry.yarnpkg.com/datejs/-/datejs-1.0.0-rc1.tgz#676eb0b85fd9187b2d57ad91b94f7ec2b62888c3"
-  integrity sha1-Z26wuF/ZGHstV62RuU9+wrYoiMM=
+datejs@1.0.0-rc3:
+  version "1.0.0-rc3"
+  resolved "https://registry.yarnpkg.com/datejs/-/datejs-1.0.0-rc3.tgz#bffa1efedefeb41fdd8a242af55afa01fb58de57"
+  integrity sha1-v/oe/t7+tB/diiQq9Vr6AftY3lc=
 
 debug@4, debug@^4.1.0, debug@^4.1.1:
   version "4.3.4"
