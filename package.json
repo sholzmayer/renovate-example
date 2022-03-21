@@ -1,0 +1,15 @@
+{
+  "name": "renovate-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sholzmayer/renovate-example.git",
+  "author": "Simon Holzmayer <simon@holzmayer.me>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.19",
+    "react": "17.0.1"
+  },
+  "devDependencies": {
+    "@jest-performance-reporter/core": "1.0.7"
+  }
+}
