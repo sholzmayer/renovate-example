@@ -5,6 +5,9 @@
   "repository": "https://github.com/sholzmayer/renovate-example.git",
   "author": "Simon Holzmayer <simon@holzmayer.me>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo fake tests passed."
+  },
   "dependencies": {
     "lodash": "4.17.19",
     "react": "17.0.1"
