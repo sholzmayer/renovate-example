@@ -14,7 +14,7 @@
     "datejs": "1.0.0-rc3"
   },
   "devDependencies": {
-    "@jest-performance-reporter/core": "1.0.7",
+    "@jest-performance-reporter/core": "1.0.8",
     "jest": "27.5.1"
   }
 }

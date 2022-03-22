@@ -309,10 +309,10 @@
   resolved "https://registry.yarnpkg.com/@istanbuljs/schema/-/schema-0.1.3.tgz#e45e384e4b8ec16bce2fd903af78450f6bf7ec98"
   integrity sha512-ZXRY4jNvVgSVQ8DL3LTcakaAtXwTVUxE81hslsyD2AtoXW/wVob10HkOJ1X/pAlcI7D+2YoZKg5do8G/w6RYgA==
 
-"@jest-performance-reporter/core@1.0.7":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@jest-performance-reporter/core/-/core-1.0.7.tgz#51d20a7f6df1f0e561d25e073921ff19ea7ff81f"
-  integrity sha512-uNNeh/OJXZ+thLi15XW210+9EQ//iXLLURfpQrPwDhW1xaHI0I8xhsgMdiiyVTZEN0V9x90IvD63tLnV17PAPQ==
+"@jest-performance-reporter/core@1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@jest-performance-reporter/core/-/core-1.0.8.tgz#eb54308382e52d09905366e6d6a8662b8616cd8c"
+  integrity sha512-m4ceqNKDxM/wPJ/Lb66DmLrz/Mg9b6wgymaB0bc9HjMkk22GTQm+SJGS+EWbuhvk7JMOvzfElZsugQBh+f7afg==
   dependencies:
     chalk "4.1.2"
 
