@@ -9,7 +9,7 @@
     "test": "sleep 60 && echo fake tests passed."
   },
   "dependencies": {
-    "lodash": "4.17.21",
+    "lodash": "4.18.1",
     "react": "17.0.2",
     "datejs": "1.0.0-rc3"
   },
